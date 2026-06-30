@@ -3,3 +3,7 @@ Portfolio/
 .DS_Store
 __pycache__/
 *.pyc
+Portfolio/
+__pycache__/
+.DS_Store
+*.ipynb_checkpoints
